@@ -44,6 +44,33 @@
 
 ![image](https://github.com/Dean25W/OnlineShoppingPage/assets/139820372/873c42cf-48b7-421b-bde2-4f61fecdf79f)
 
+*What the project does*
+* The project actually showing how to create a website with using a  external CSS file and showing how to use the different grids of the web page and seen below is snip off the external CSS
+ ![image](https://github.com/Dean25W/OnlineShoppingPage/assets/139820372/df355bb6-0950-4c48-9538-3b85b363c3d6)
+
+
+* A CSS pseudo-class is a keyword added to a selector that specifies a special state of the selected element(s). For example, the pseudo-class :hover can be used to select a button when a user's pointer hovers     
+  over the button and this selected button can then be styled
+
+*How users can get started with the project*
+1. We start with proposed concept that the user wants to use
+2. The user then starts to write an html file with in VS studio with heading , body & footer
+3. The user then must add in images that the want in there webpage and also create an external CSS file which helps design the webpage how te user wants
+4. see if the page is working and also that what we added is working eg. responsive images , backgrounds etc.
+
+*Where users can get help with your project*
+
+1. Please see below links that help with bootstrap , CSS setup and HTML setup
+   * https://getbootstrap.com/docs/5.0/getting-started/introduction/
+   * https://www.w3schools.com/cssref/index.php
+   * https://www.tutorialspoint.com/html/index.htm
+   * https://www.w3schools.com/css/css_howto.asp
+   * https://mdbootstrap.com/docs/standard/content-styles/hover-effects/
+   * https://getbootstrap.com/
+*Who maintains and contributes to the project*
+
+Maintaining of the project will be the softeware engineer and his team if they have access to the specific project and if its just one user the maintaining and contribution well soley rely on the user.
+
 *Authors*
 
 Created by Dean Walstroom
