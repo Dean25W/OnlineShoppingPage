@@ -67,6 +67,8 @@
    * https://www.w3schools.com/css/css_howto.asp
    * https://mdbootstrap.com/docs/standard/content-styles/hover-effects/
    * https://getbootstrap.com/
+
+  
 *Who maintains and contributes to the project*
 
 Maintaining of the project will be the softeware engineer and his team if they have access to the specific project and if its just one user the maintaining and contribution well soley rely on the user.
